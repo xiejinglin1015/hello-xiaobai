@@ -44,7 +44,7 @@ const STATUS_ERROR = -2
 const DEFAULT_OPTIONS = {
   title: '𝗗𝗶𝘀𝗻𝗲𝘆+-𝗨𝗻𝗹𝗼𝗰𝗸',
   availableContent: '解锁 Disney+ ➟ #REGION_FLAG# #REGION_NAME#',
-  availableIcon: 'video.circle .fill',
+  availableIcon: 'video.circle',
   availableIconColor: '#fe00ff',
   availableStyle: 'good',
   comingContent: 'Coming Soon ➟ #REGION_FLAG# #REGION_NAME#',
